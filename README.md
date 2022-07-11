@@ -15,7 +15,7 @@ Optional: Adding an egg white to the wet mix will help the granola clump up and 
 Granola Parts
 nuts, seeds, grains, fruit
 
-Granola Tips
+### Granola Tips
 Assembling
 It’s easy to swap ingredients in granola recipes - just maintain the ratio of wet to dry ingredients.
 Combine dry ingredients before adding liquid fats and sweetners to avoid clumping of spices. (Tip from Megan Gordon of Marge Granola)
@@ -23,8 +23,7 @@ If you want your granola to be extra-clumpy, and I know you do, press it down in
 Raw nuts need a longer cook time, and can go in the oven along with the oats, binders, and spices. Roasted nuts can burn and become bitter if baked too long, so . . .
 Add roasted nutes and dried fruit immediately after baking.
 Delicate ingredients like coconut flakes that just need a light toast, can go in for the last 15 minutes of bake time.
-Some Granola Recipes
-Hazelnut Granola, Bon Apetite
+
 
 ### Granola Parts
 nuts, seeds, grains, fruit
