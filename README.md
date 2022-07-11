@@ -26,25 +26,6 @@ Delicate ingredients like coconut flakes that just need a light toast, can go in
 Some Granola Recipes
 Hazelnut Granola, Bon Apetite
 
-
-
-
-# Granola Generator
-# _'Cause it's Crunch Time_
-#### Combine rolled oats with nuts and seeds, coat those dry ingredients in a mix of fat (most often oil) and liquid sweetner (such as honey or maple syrup) and bake until lighly toasted and bound together . . . and **Boom! you've got granola**.
-### Basic Granola Ratio (TLDR: **6 dry : 1 wet**)
-
-##### Anna Stockwell likes to [break it down like this](https://www.epicurious.com/expert-advice/how-to-make-granola-without-a-recipe-article):
- Dry Mix is 6 : 1 of the total
-- Make **half** of your dry mix **rolled oats** (_do not_ use instant oats!).
-  - Split the **second half** into **one part nut**, **one part seed,** and **one part something else** (like coconut)
-
-Wet Mix is 1 : 6 of the total
-- The **wet mix can be split evenly** (1 part oil to 1 part sweet liquid), or adjusted to your taste. (A 1 : 1 ratio here will be less sweet than most commercially produced granolas).
-- **Optional**: Adding an **egg white** to the wet mix will help the granola clump up and make it shiny.
-
- 
-
 ### Granola Parts
 nuts, seeds, grains, fruit
 ### Granola Tips
